@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Pacifico&display=swap');
+
+body{
+    background-color: #faeee7;
+}
+
+.heading-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.fav-icon{
+    height: 150px;
+    width: 180px;
+    margin: 0 0 0 50px;
+}
+
+.heading{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: #594a4e;
+    margin: 0 400px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    margin: 0 0 0 950px;
+}
+
+.header-text{
+    padding: 20px;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
