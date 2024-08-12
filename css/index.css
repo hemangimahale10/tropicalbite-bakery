@@ -1,0 +1,79 @@
+.home-page-container{
+    background-color: #f4d5c3;
+    height: 340px;
+    display: flex;
+    align-items: center;
+}
+
+.home-page-img{
+    width: 1510px;
+    height: 300px;
+    margin: 0px 0 20px 0;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0 0 0;
+}
+
+.home-page-btn{
+    padding: 10px 20px;
+    margin: 20px 50px;
+    border-radius: 50px;
+    background-color: #f4b590;
+    border: 3.5px solid #f7ac80;
+    color: #33272a;
+    font-size: 17px;
+}
+
+.home-page-btn:hover{
+    background-color: #f89d68;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.images-container{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+
+.img-card{
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.img:hover{
+    border-radius: 30px;
+    box-shadow: 1px 1px 5px 8px #f4d5c3;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.trending-cake-img-container{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+
+.trending-cake-card{
+    width: 300px;
+    border-radius: 50px 50px 0 0;
+    text-align: center;
+}
+
+.trending-cake-card:hover{
+    box-shadow: 1px 1px 5px 8px #f4d5c3;
+    cursor: pointer; 
+    transition: 1s;
+}
+
+.trending-cake-img{
+    width: 300px;
+    border-radius: 200px 200px 0 0;
+}
