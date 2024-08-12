@@ -4,6 +4,7 @@
     flex-direction: row;
     background-color: #f4d5c3;
     flex-wrap: wrap;
+    border-radius: 20px;
 }
 
 .img-card{

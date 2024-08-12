@@ -1,0 +1,62 @@
+.about-div{
+    background-color: #f4d5c3;
+    padding: 10px 0;
+}
+
+.why-to-choose-us-heading{
+    color: #33272a;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px auto;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.cards-container{
+    display: flex;
+    background-color: #f8c1a3;
+    padding: 10px;
+    justify-content: center;
+    margin: 50px;
+    border-radius: 250px;
+}
+
+.card{
+    height: 250px;
+    width: 250px;
+    background-color: #f6e4da;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.img-card{
+    height: 100px;
+    margin: 20px 70px 0 70px;
+}
+
+.img-info{
+    margin: 10px 78px;
+}
+
+.why-to-choose-us{
+    color: #670c24;
+    font-size: 18px;
+    margin: 40px auto;
+    padding: 15px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+}
+
+.text{
+    padding: 10px 0 20px 10px;
+    margin: 10px 0 20px 0px;
+    font-size: 17px;
+    color: #47202a;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+
+.table{
+    padding: 10px;
+    text-align: center;
+    font-family: "Kalam", cursive;
+}
