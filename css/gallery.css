@@ -1,0 +1,25 @@
+.images-container{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    background-color: #f4d5c3;
+    flex-wrap: wrap;
+}
+
+.img-card{
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.img{
+    border-radius: 10px;
+    height: 200px;
+    margin: 20px;
+}
+
+.img:hover{
+    border-radius: 50px;
+    box-shadow: 1px 1px 5px 8px #f9c5a7 ;
+    transition: 1s;
+    cursor: pointer;
+}

@@ -31,6 +31,7 @@ body{
 .header{
     display: flex;
     margin: 0 0 0 950px;
+    font-family: "Kalam", cursive;
 }
 
 .header-text{

@@ -2,10 +2,12 @@
     background-color: #f4ceb8;
     padding: 19px 10px;
     border-radius: 20px;
+    font-family: "Kalam", cursive;
 }
 
 .text{
     font-size: 17px;
+    font-family: "Kalam", cursive;
 }
 
 .btn{
@@ -16,13 +18,15 @@
 .form-btn{
     margin: 17px;
     border-radius: 50px;
-    padding: 8px 25px;
+    padding: 8px 30px;
     background-color: #f4b590;
     color: #33272a;
     border: 4px solid #f7ac80;
     width: 25%;
     height: 40px;
     font-size: 17px;
+    font-family: "Kalam", cursive;
+    font-weight: bold;
 }
 
 .form-btn:hover{

@@ -25,6 +25,8 @@
     border: 3.5px solid #f7ac80;
     color: #33272a;
     font-size: 17px;
+    font-family: "Kalam", cursive;
+    font-weight: bold;
 }
 
 .home-page-btn:hover{
